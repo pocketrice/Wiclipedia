@@ -5,7 +5,7 @@ Read Wikipedia, the wiki anyone can now read in the console.
 
 ## Installation
 
-### Unix-like Systems (Linux, macOS)
+### Linux / MacOS
 1. Download the `wicli-1.0.0.jar` file (or latest release).
 2. Move the `wicli-1.0.0.jar` file to `/usr/local/bin` directory:
 ```
