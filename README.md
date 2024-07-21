@@ -19,7 +19,7 @@ cd /usr/local/bin/ && sudo touch wicli
 
 5. Write script contents to file:
 ```
-vim wicli (or preferred editor)
+vim wicli (or your favourite editor!)
 ...
 #!/bin/bash
 java -jar /usr/local/bin/wicli-1.0.0.jar
